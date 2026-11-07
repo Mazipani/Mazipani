@@ -1,34 +1,26 @@
-<h1 align="center">Mazen Daou</h1>
+<a href="https://daou.dev"><img src="assets/banner.svg" alt="Mazen Daou — IT security · privacy engineering · software" width="100%"></a>
 
 <p align="center">
-  <b>IT security · privacy engineering · software</b><br>
-  I build tools that show what the web learns about you.
+  <a href="https://daou.dev"><img src="https://img.shields.io/badge/daou.dev-0a0e27?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0Ij4KICA8IS0tICJkLiIgbW9ub2dyYW0gZm9yIGRhb3UuZGV2OiBuYXZ5IHRpbGUsIGdlb21ldHJpYyB3aGl0ZSBkLCBza3ktYmx1ZSBwZXJpb2QuCiAgICAgICBCb2xkIHN0cm9rZXMgc28gaXQgc3RheXMgbGVnaWJsZSBhdCAxNnB4IGluIGEgYnJvd3NlciB0YWIuIC0tPgogIDxyZWN0IHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgcng9IjE1IiBmaWxsPSIjMGEwZTI3IiAvPgogIDxjaXJjbGUgY3g9IjI2LjUiIGN5PSIzNy41IiByPSIxMS41IiBmaWxsPSJub25lIiBzdHJva2U9IiNmNGY1ZjkiIHN0cm9rZS13aWR0aD0iNyIgLz4KICA8cGF0aCBkPSJNMzggMTMgVjQ5IiBzdHJva2U9IiNmNGY1ZjkiIHN0cm9rZS13aWR0aD0iNyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiAvPgogIDxjaXJjbGUgY3g9IjUwLjUiIGN5PSI0NiIgcj0iNC41IiBmaWxsPSIjN2VjNGNmIiAvPgo8L3N2Zz4K" alt="daou.dev"></a>
+  <a href="https://www.linkedin.com/in/mazendaou/"><img src="https://img.shields.io/badge/LinkedIn-0a0e27?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzdlYzRjZiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D" alt="LinkedIn"></a>
+  <a href="mailto:mazen@daou.dev"><img src="https://img.shields.io/badge/mazen%40daou.dev-0a0e27?style=for-the-badge&logo=maildotru&logoColor=7ec4cf" alt="Email"></a>
 </p>
 
-<p align="center">
-  <a href="https://daou.dev"><img src="https://img.shields.io/badge/daou.dev-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="daou.dev"></a>
-  <a href="https://www.linkedin.com/in/mazendaou/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:mazen@daou.dev"><img src="https://img.shields.io/badge/mazen@daou.dev-555555?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
-</p>
-
----
+<p align="center"><i>I build tools that show what the web learns about you.</i></p>
 
 ```console
-$ whoami
-IT Security master's student @ TU Darmstadt
-Working student @ Bosch Building Technologies, on site at Frankfurt Airport
-3 years in Bosch's IT-security dual-study programme (B.Sc.)
-
-$ ls ~/interests
-network-security  privacy-engineering  secure-coding  risk-assessment  raspberry-pi  esp32  3d-printing
+$ cat ~/record
+IT Security M.Sc. student        TU Darmstadt
+Working student                  Bosch Building Technologies · Frankfurt Airport
+IT-security dual student (B.Sc.) Bosch Building Technologies · 3 years, completed
 ```
 
 ### `$ ls ~/exhibits`
 
-| | |
-|---|---|
-| 🌐 **[Traceroute globe](https://daou.dev/traceroute)** | Trace any domain from my server and watch each hop land on a globe of 576 submarine cables. |
-| 🖐️ **[Privacy lab](https://daou.dev/privacy-tools)** | See the fingerprint your browser gives away, and what each piece can and can't prove. |
+<p>
+  <a href="https://daou.dev/traceroute"><img src="assets/card-traceroute.svg" alt="Where your packets go: trace any domain onto a globe of submarine cables" width="49%"></a>
+  <a href="https://daou.dev/privacy-tools"><img src="assets/card-privacy.svg" alt="What your browser gives away: lift your own browser fingerprint" width="49%"></a>
+</p>
 
 ### `$ ls ~/tools`
 

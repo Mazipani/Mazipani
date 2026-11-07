@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 200" width="580" height="200">
+  <defs><clipPath id="r"><rect width="580" height="200" rx="14"/></clipPath></defs>
+  <g clip-path="url(#r)">
+    <rect width="580" height="200" fill="#0a0e27"/>
+    <!-- fingerprint ridges -->
+    <g transform="translate(500 108)" fill="none" stroke-linecap="round" stroke-width="3">
+      <path d="M-8 4 a 8 10 0 0 1 16 -2 v 22" stroke="#7ec4cf"/>
+      <path d="M-20 26 v -22 a 20 22 0 0 1 40 0 v 10" stroke="#7ec4cf" stroke-opacity=".85"/>
+      <path d="M-32 18 v -14 a 32 34 0 0 1 64 0 v 22" stroke="#f4f5f9" stroke-opacity=".55"/>
+      <path d="M-44 10 v -6 a 44 46 0 0 1 88 0 v 6" stroke="#f4f5f9" stroke-opacity=".4"/>
+      <path d="M-54 -14 a 56 58 0 0 1 108 0" stroke="#f4f5f9" stroke-opacity=".28"/>
+      <path d="M-46 -42 a 66 66 0 0 1 92 0" stroke="#f4f5f9" stroke-opacity=".18"/>
+      <path d="M-32 42 q 4 -6 4 -16" stroke="#f4f5f9" stroke-opacity=".4"/>
+      <path d="M32 50 q -4 -8 -4 -18" stroke="#f4f5f9" stroke-opacity=".3"/>
+    </g>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+      <text x="32" y="50" font-size="15" fill="#7ec4cf">B · exhibit</text>
+      <text x="32" y="92" font-size="25" font-weight="700" fill="#f4f5f9" font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif">What your browser gives away</text>
+      <text x="32" y="126" font-size="14" fill="#f4f5f9" fill-opacity=".7">Lift your own browser fingerprint and</text>
+      <text x="32" y="146" font-size="14" fill="#f4f5f9" fill-opacity=".7">see what each piece can prove.</text>
+      <text x="32" y="180" font-size="14" fill="#7ec4cf">daou.dev/privacy-tools →</text>
+    </g>
+  </g>
+</svg>

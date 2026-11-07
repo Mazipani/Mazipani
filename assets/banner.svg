@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0e27"/>
+      <stop offset="1" stop-color="#121a3d"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#7ec4cf" stop-opacity="0"/>
+      <stop offset=".55" stop-color="#7ec4cf" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#7ec4cf" stop-opacity=".15"/>
+    </linearGradient>
+    <clipPath id="r"><rect width="1200" height="300" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <!-- faint dot grid -->
+    <g fill="#f4f5f9" fill-opacity=".05">
+      <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4"/></pattern>
+      <rect width="1200" height="300" fill="url(#dots)"/>
+    </g>
+    <!-- submarine-cable style arcs -->
+    <g fill="none" stroke="url(#fade)" stroke-width="1.6">
+      <path d="M560 330 C 700 120, 900 80, 1240 140"/>
+      <path d="M620 340 C 760 190, 960 170, 1240 220"/>
+      <path d="M520 -20 C 720 90, 930 40, 1240 60"/>
+      <path d="M700 340 C 820 250, 1000 260, 1240 290"/>
+    </g>
+    <g fill="#7ec4cf">
+      <circle cx="905" cy="104" r="4"/><circle cx="1060" cy="113" r="4"/>
+      <circle cx="980" cy="186" r="4"/><circle cx="1130" cy="205" r="4"/>
+      <circle cx="840" cy="71" r="3"/><circle cx="1020" cy="265" r="3"/>
+    </g>
+    <g fill="none" stroke="#7ec4cf" stroke-opacity=".35">
+      <circle cx="905" cy="104" r="10"/><circle cx="1130" cy="205" r="10"/>
+    </g>
+
+    <!-- monogram -->
+    <g transform="translate(72 86) scale(2)">
+      <rect width="64" height="64" rx="15" fill="#0a0e27" stroke="#f4f5f9" stroke-opacity=".12"/>
+      <circle cx="26.5" cy="37.5" r="11.5" fill="none" stroke="#f4f5f9" stroke-width="7"/>
+      <path d="M38 13 V49" stroke="#f4f5f9" stroke-width="7" stroke-linecap="round"/>
+      <circle cx="50.5" cy="46" r="4.5" fill="#7ec4cf"/>
+    </g>
+
+    <!-- text -->
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+      <text x="240" y="118" font-size="20" fill="#7ec4cf">$ whoami</text>
+      <text x="238" y="176" font-size="58" font-weight="700" fill="#f4f5f9"
+            font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" letter-spacing="-1">Mazen Daou</text>
+      <text x="240" y="218" font-size="20" fill="#f4f5f9" fill-opacity=".72">IT security · privacy engineering · software</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 200" width="580" height="200">
+  <defs><clipPath id="r"><rect width="580" height="200" rx="14"/></clipPath></defs>
+  <g clip-path="url(#r)">
+    <rect width="580" height="200" fill="#0a0e27"/>
+    <!-- globe -->
+    <g transform="translate(470 110)" fill="none" stroke="#f4f5f9" stroke-opacity=".18" stroke-width="1.2">
+      <circle r="78"/>
+      <ellipse rx="40" ry="78"/><ellipse rx="70" ry="78"/><line y1="-78" y2="78"/>
+      <ellipse rx="78" ry="26"/><ellipse rx="78" ry="56"/><line x1="-78" x2="78"/>
+    </g>
+    <g fill="none" stroke="#7ec4cf" stroke-width="2" stroke-linecap="round">
+      <path d="M408 150 Q 440 70 488 84" stroke-dasharray="4 5"/>
+      <path d="M488 84 Q 530 96 520 150"/>
+    </g>
+    <g fill="#7ec4cf"><circle cx="408" cy="150" r="5"/><circle cx="488" cy="84" r="5"/><circle cx="520" cy="150" r="5"/></g>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+      <text x="32" y="50" font-size="15" fill="#7ec4cf">A · exhibit</text>
+      <text x="32" y="92" font-size="25" font-weight="700" fill="#f4f5f9" font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif">Where your packets go</text>
+      <text x="32" y="126" font-size="14" fill="#f4f5f9" fill-opacity=".7">Trace any domain onto a globe of</text>
+      <text x="32" y="146" font-size="14" fill="#f4f5f9" fill-opacity=".7">576 submarine cables.</text>
+      <text x="32" y="180" font-size="14" fill="#7ec4cf">daou.dev/traceroute →</text>
+    </g>
+  </g>
+</svg>
