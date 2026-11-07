@@ -6,7 +6,6 @@
   <a href="mailto:mazen@daou.dev"><img src="https://img.shields.io/badge/mazen%40daou.dev-0a0e27?style=for-the-badge&logo=maildotru&logoColor=7ec4cf" alt="Email"></a>
 </p>
 
-<p align="center"><i>I build tools that show what the web learns about you.</i></p>
 
 ```console
 $ cat ~/record
