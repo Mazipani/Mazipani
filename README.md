@@ -7,18 +7,24 @@
 </p>
 
 
-```console
-$ cat ~/record
-IT Security M.Sc. student        TU Darmstadt
-Working student                  Bosch Building Technologies · Frankfurt Airport
-IT-security dual student (B.Sc.) Bosch Building Technologies · 3 years, completed
-```
+### `$ cat ~/record`
+
+<table>
+  <thead>
+    <tr><th align="left">Role</th><th align="left">Where</th><th align="left">Status</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><b>IT Security M.Sc. student</b></td><td>TU Darmstadt</td><td><code>current</code></td></tr>
+    <tr><td><b>Working student</b></td><td>Bosch Building Technologies · Frankfurt Airport</td><td><code>current</code></td></tr>
+    <tr><td><b>IT-security dual student</b> (B.Sc.)</td><td>Bosch Building Technologies</td><td><code>3 years · completed</code></td></tr>
+  </tbody>
+</table>
 
 ### `$ ls ~/exhibits`
 
 <p>
-  <a href="https://daou.dev/traceroute"><img src="assets/card-traceroute.svg" alt="Where your packets go: trace any domain onto a globe of submarine cables" width="49%"></a>
-  <a href="https://daou.dev/privacy-tools"><img src="assets/card-privacy.svg" alt="What your browser gives away: lift your own browser fingerprint" width="49%"></a>
+  <a href="https://daou.dev/traceroute"><img src="assets/card-traceroute.svg" alt="Where your packets go: trace any domain onto a globe of submarine cables" width="100%"></a>
+  <a href="https://daou.dev/privacy-tools"><img src="assets/card-privacy.svg" alt="What your browser gives away: lift your own browser fingerprint" width="100%"></a>
 </p>
 
 ### `$ ls ~/tools`
@@ -40,4 +46,4 @@ IT-security dual student (B.Sc.) Bosch Building Technologies · 3 years, complet
   <img src="https://img.shields.io/badge/Privacy%20Engineering-0a0e27?style=flat-square&color=0a0e27&logoColor=7ec4cf" alt="Privacy Engineering">
   <img src="https://img.shields.io/badge/Secure%20Coding-0a0e27?style=flat-square&color=0a0e27&logoColor=7ec4cf" alt="Secure Coding">
   <img src="https://img.shields.io/badge/Risk%20Assessment-0a0e27?style=flat-square&color=0a0e27&logoColor=7ec4cf" alt="Risk Assessment">
-</p><sub>Most of my work lives in private repos. Ask if you'd like a look.</sub>
+</p><sub>Most of my work lives in private repos. Ask if you'd like a look.<br>Cable data © <a href="https://www.submarinecablemap.com">TeleGeography</a>, CC BY-NC-SA 3.0.</sub>
