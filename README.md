@@ -25,15 +25,20 @@ IT-security dual student (B.Sc.) Bosch Building Technologies · 3 years, complet
 ### `$ ls ~/tools`
 
 <p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C/C++">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
+  <img src="https://img.shields.io/badge/Rust-0a0e27?style=flat-square&color=0a0e27&logoColor=7ec4cf&logo=rust" alt="Rust">
+  <img src="https://img.shields.io/badge/Python-0a0e27?style=flat-square&color=0a0e27&logoColor=7ec4cf&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-0a0e27?style=flat-square&color=0a0e27&logoColor=7ec4cf&logo=typescript" alt="TypeScript">
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-0a0e27?style=flat-square&color=0a0e27&logoColor=7ec4cf&logo=cplusplus" alt="C/C++">
+  <img src="https://img.shields.io/badge/Flutter-0a0e27?style=flat-square&color=0a0e27&logoColor=7ec4cf&logo=flutter" alt="Flutter">
+  <img src="https://img.shields.io/badge/Astro-0a0e27?style=flat-square&color=0a0e27&logoColor=7ec4cf&logo=astro" alt="Astro">
+  <img src="https://img.shields.io/badge/Linux-0a0e27?style=flat-square&color=0a0e27&logoColor=7ec4cf&logo=linux" alt="Linux">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-0a0e27?style=flat-square&color=0a0e27&logoColor=7ec4cf&logo=raspberrypi" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/ESP32-0a0e27?style=flat-square&color=0a0e27&logoColor=7ec4cf&logo=espressif" alt="ESP32">
 </p>
 
-<sub>Most of my work lives in private repos. Ask if you'd like a look.</sub>
+<p>
+  <img src="https://img.shields.io/badge/Network%20Security-0a0e27?style=flat-square&color=0a0e27&logoColor=7ec4cf" alt="Network Security">
+  <img src="https://img.shields.io/badge/Privacy%20Engineering-0a0e27?style=flat-square&color=0a0e27&logoColor=7ec4cf" alt="Privacy Engineering">
+  <img src="https://img.shields.io/badge/Secure%20Coding-0a0e27?style=flat-square&color=0a0e27&logoColor=7ec4cf" alt="Secure Coding">
+  <img src="https://img.shields.io/badge/Risk%20Assessment-0a0e27?style=flat-square&color=0a0e27&logoColor=7ec4cf" alt="Risk Assessment">
+</p><sub>Most of my work lives in private repos. Ask if you'd like a look.</sub>
